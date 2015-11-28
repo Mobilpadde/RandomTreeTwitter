@@ -2,7 +2,7 @@
 Generate random trees for tweets.
 
 ## How to?
-It's really simple, actually. First generate an app for Twitter and fill out the config-file and **bam**, you're done!
+It's really simple, actually. First generate an [app for Twitter](https://apps.twitter.com/) and fill out the config-file and **bam**, you're done!
 
 If you run a server without a GUI, you'll have to install xvfb. On Ubuntu it's just:
 * sudo apt-get install xvfb libxrender1 libxtst6 libxi6
