@@ -1,0 +1,24 @@
+{
+  "name": "RandomTreeTwitter",
+  "version": "0.0.5",
+  "description": "Throw trees at peeps you tweet at ya!",
+  "main": "server.js",
+  "dependencies": {
+    "twit": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mobilpadde/RandomTreeTwitter.git"
+  },
+  "author": "Mads Cordes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mobilpadde/RandomTreeTwitter/issues"
+  },
+  "homepage": "https://github.com/Mobilpadde/RandomTreeTwitter"
+}
