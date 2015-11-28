@@ -12,3 +12,6 @@ If you run a server without a GUI, you'll have to install xvfb. On Ubuntu it's j
 
 ## Something else?
 What is you want to create something other than trees? Well, create something awesome (it has to be awesome) in processing and export as a linux program, or whatevs server os you're using, change the path for the program and the exported image and you're finished! It's as easy as that (Which is quite tough actually).
+
+## Test
+You can test this by tweeting [@TreesAreRandom](https://twitter.com/TreesAreRandom).
